@@ -108,6 +108,6 @@ The project demonstrates how raw data can be transformed into meaningful busines
 
 ## Author
 
-**Your Name**
+**Tinh Tran**
 
-Data Analytics Portfolio Project
+Customer Behavior Analytics Portfolio Project
